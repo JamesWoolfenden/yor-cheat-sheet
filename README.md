@@ -15,7 +15,7 @@ yor tag -d .
    \ \/ /___  _  ____
     \  /  _ \| |/  __|
     | |  |_| |   /
-    |_|\____/|__|v9.9.9
+    |_|\____/|__|v0.1.155
  Yor Findings Summary
  Scanned Resources:	  15
  New Resources Traced: 	  1
@@ -54,7 +54,7 @@ yor tag -d example/examplea
    \ \/ /___  _  ____
     \  /  _ \| |/  __|
     | |  |_| |   /
-    |_|\____/|__|v9.9.9
+    |_|\____/|__|v0.1.155
  Yor Findings Summary
  Scanned Resources:	  6
  New Resources Traced: 	  0
@@ -72,7 +72,7 @@ yor tag -d example/examplea -tag-local-modules
    \ \/ /___  _  ____
     \  /  _ \| |/  __|
     | |  |_| |   /
-    |_|\____/|__|v9.9.9
+    |_|\____/|__|v0.1.155
  Yor Findings Summary
  Scanned Resources:	  6
  New Resources Traced: 	  1
