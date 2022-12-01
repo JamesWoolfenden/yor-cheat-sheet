@@ -1,5 +1,3 @@
-# Yor cheat sheet
-
 ## Tagging a repository
 
 With resources in the root.
